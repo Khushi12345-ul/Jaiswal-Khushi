@@ -1,4 +1,4 @@
 # Practical-27
-"This is my first Git Repository."
+This is my first Git Repository.
 <br>
 My name = Jaiswal Khushi
